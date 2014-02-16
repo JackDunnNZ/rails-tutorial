@@ -14,3 +14,4 @@ database.yml
 doc/
 .DS_Store
 .secret
+coverage/
